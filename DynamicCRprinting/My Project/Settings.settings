@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="footerenglish" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Address 4th phase industrial City – Jeddah – Saudi Arabia Tel, 96612638070 0</Value>
+    </Setting>
+    <Setting Name="footerarabic" Type="System.String" Scope="User">
+      <Value Profile="(Default)">المملكة ال عربیة السعودية – جدة – المدينة الصناعیة – المرحلة ال راب عة ت. 966126380700</Value>
+    </Setting>
+    <Setting Name="to_print" Type="System.String" Scope="User">
+      <Value Profile="(Default)">files\to_print\</Value>
+    </Setting>
+    <Setting Name="done" Type="System.String" Scope="User">
+      <Value Profile="(Default)">files\done\</Value>
+    </Setting>
+    <Setting Name="invoice" Type="System.String" Scope="User">
+      <Value Profile="(Default)">files\invoice\</Value>
+    </Setting>
+    <Setting Name="error_pdf" Type="System.String" Scope="User">
+      <Value Profile="(Default)">files\err\</Value>
+    </Setting>
+    <Setting Name="header" Type="System.String" Scope="User">
+      <Value Profile="(Default)">files\header\</Value>
+    </Setting>
+    <Setting Name="key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MzExMDAxMTAwMTEwMTEx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
