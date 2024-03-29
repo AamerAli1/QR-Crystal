@@ -157,7 +157,7 @@ Public Class Form1
                 vstring = vText.Split(p1, StringSplitOptions.None) 'I am also using the option to remove empty entries a
 
                 Company_VAT_number = vstring(0)
-                company_name = vstring(1)
+                company_name = Mid(vstring(1), 1, 1) + Replace(Mid(vstring(1), 2, 1), " ", "") + Mid(vstring(1), 3)
                 company_address = vstring(2)
                 company_email = vstring(3)
                 company = vstring(4)
